@@ -11,3 +11,7 @@ Not much checking included at the moment.
 FreeBSD:
 
     pkg install python27 py27-exiv2
+
+Ubuntu:
+
+    sudo apt-get install python2.7 python-pyexiv2
