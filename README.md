@@ -5,3 +5,9 @@ This is just a small script I wrote to rename lots of JPEGs after a sucessfull r
 To get some basic information about the pictures the date is extracted from 'Exif.Photo.DateTimeOriginal'. This information is then used to rename the corresponding picture file.
 
 Not much checking included at the moment.
+
+##Pre-requisites
+
+FreeBSD:
+
+    pkg install python27 py27-exiv2
